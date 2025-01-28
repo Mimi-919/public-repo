@@ -1,0 +1,160 @@
+*{
+    font-family:arial;
+    border: border-box;
+    margin: 0;
+
+}
+
+.navbar {
+    height: 60px;
+    background-color: #0f1111;
+    align-items: center;
+    color: white;
+    display:flex;
+    
+    
+
+}
+.navlogo{
+    height: 60px;
+    width: 120px;
+}
+
+
+.logo{
+    background-image: url(amz\ logoo.png);
+    background-size: cover;
+    height: 41.2px;
+    width: 111.2px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 15px;
+    margin-bottom: 50px;
+   
+}
+
+.logo{
+    border: 2px solid transparent;
+}
+
+.logo:hover{
+    border: 2px solid white;
+}
+.add{
+    margin-left: 25px;
+    align-items: center;
+}
+.del{ 
+    color: #cccccc;
+}
+.india{
+    
+    
+    font-weight: bolder;
+}
+.location{
+    display: flex;
+}
+
+.search{
+    margin-left: 20px;
+    display: flex;
+    width: 800px;
+  
+}
+.s{
+    width: 650px;
+    height: 35px;
+}
+.all{
+    width: 45px;
+}
+i{
+    width: 35px;
+    background-position: center;
+    align-items: center;
+}
+.en{
+    font-weight: bolder;
+    background-color: #0f1111;
+    margin-left: 10px;
+    color: white;
+    text-decoration: none;
+}
+.he{
+    margin-left: 28px;
+   
+}
+.ac{
+    font-weight: bolder;
+    background-color: #0f1111;
+    
+    color: white;
+}
+.hello{
+    width: 70px;
+    height: 14px;
+}
+.order{
+    font-weight: bolder;
+}
+.ret{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.cart{
+    width: 85px;
+    display: flex;
+    
+}
+.cart2{
+    font-size: small;
+}
+
+.navbar2{
+    height: 40px;
+    display: flex;
+    background-color:  #1e1f1f;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+
+}
+.main{
+    display: flex;
+    width: 70%;
+}
+.al{
+    display: flex;
+}
+.shop{
+    font-weight: bolder;
+    margin-right: 20px;
+}
+.ama{
+   
+    width: 1027.2;
+
+}
+.ama1{
+    display: flex;
+    
+    justify-content: space-between;
+}
+.a1{
+    height: 200px;
+    width: 200px;
+}
+.a2{
+    height: 200px;
+    width: 200px;
+}
+.a3{
+    height: 200px;
+    width: 200px;
+}
+.a4{
+    height: 200px;
+    width: 200px;
+}
